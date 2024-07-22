@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="negr:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/negr_jar</output-path>
+    <root id="archive" name="negr.jar">
+      <element id="module-output" name="negr" />
+    </root>
+  </artifact>
+</component>
